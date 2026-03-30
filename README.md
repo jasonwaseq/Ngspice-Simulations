@@ -1,0 +1,3 @@
+# Ngspice Simulations   
+
+Ngspice-Simulations is a circuit analysis project focused on transistor- and gate-level timing exploration using NGSPICE netlists to study propagation delay, rise/fall behavior, fanout effects, and device sizing tradeoffs. The repository contains simulation decks such as FO4_rise.sp, delay_fallA1.sp, delay_fallA2.sp, delay_fallB1.sp, and sizing_rise.sp, characterizing how different circuit configurations and transistor dimensions impact switching performance. Overall, it works well as a hands-on project for learning CMOS timing analysis, validating design intuition with simulation, and building experience with SPICE-based evaluation of digital circuits before moving into larger VLSI or ASIC design flows.
